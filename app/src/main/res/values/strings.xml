@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FLEP</string>
+    <string name="splashscreen_1">Welcome to FLEP</string>
+    <string name="splashscreen_2">A platform for video, music and image to make more functional and valuable at once.</string>
+</resources>

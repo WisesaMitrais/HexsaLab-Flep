@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#FAFAFF</color>
+    <color name="colorBackground2">#CCCCCC</color>
+    <color name="colorFlep">#0EE29F</color>
+    <color name="colorGradient1X">#81F2B8</color>
+    <color name="colorGradient1Y">#5EFCE8</color>
+    <color name="color1">#78909C</color>
+    <color name="color2">#FF5253</color>
+    <color name="color3">#7E57C2</color>
+</resources>
