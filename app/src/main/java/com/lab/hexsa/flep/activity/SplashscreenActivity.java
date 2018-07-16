@@ -1,5 +1,6 @@
 package com.lab.hexsa.flep.activity;
 
+import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.graphics.Typeface;
 import android.os.Handler;
@@ -109,6 +110,13 @@ public class SplashscreenActivity extends AppCompatActivity {
                 });
             }
         }, 0, 4000);
+
+        buttonEnter.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(SplashscreenActivity.this, DashboardActivity.class));
+            }
+        });
     }
 
     public class SectionsPagerAdapter extends FragmentPagerAdapter {
